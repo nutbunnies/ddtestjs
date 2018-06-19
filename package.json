@@ -1,0 +1,8 @@
+{
+  "name": "ddtest",
+  "version": "1.0.0",
+  "dependencies": {
+    "datadog-tracer": "^0.3.4",
+    "node-fetch": "^2.1.2"
+  }
+}
